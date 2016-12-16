@@ -17,7 +17,7 @@ over 100M+ emoji glyphs daily. This version was written to provide all the same
 functionality while taking advantage of the crazy speed of the V8 runtime
 environment. :dizzy:
 
-[![Build Status](https://travis-ci.org/mroth/emoji-data-js.svg?branch=master)](https://travis-ci.org/mroth/emoji-data-js)
+[![Build Status](https://travis-ci.org/mnasyrov/emoji-data-js.svg?branch=@mnasyrov/emoji-data)](https://travis-ci.org/mnasyrov/emoji-data-js)
 
 [doublebyte]: http://www.quora.com/Why-does-using-emoji-reduce-my-SMS-character-limit-to-70
 [variant]: http://www.unicode.org/L2/L2011/11438-emoji-var.pdf
