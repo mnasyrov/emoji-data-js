@@ -1,17 +1,20 @@
 {
-  "name":        "emoji-data",
+  "name":        "@mnasyrov/emoji-data",
   "version":     "0.2.0",
-  "description": "Emoji encoding swiss army knife for NodeJS",
+  "description": "Emoji encoding swiss army knife for NodeJS (forked from mroth/emoji-data-js)",
   "keywords": [
     "emoji",
     "unicode"
   ],
-  "homepage": "https://github.com/mroth/emoji-data-js",
-  "bugs":     "https://github.com/mroth/emoji-data-js/issues",
+  "homepage": "https://github.com/mnasyrov/emoji-data-js",
+  "bugs":     "https://github.com/mnasyrov/emoji-data-js/issues",
   "author":   "Matthew Rothenberg <mroth@mroth.info> (http://github.com/mroth)",
+  "contributors": [
+    "Mikhail Nasyrov <mikhail@mnasyrov.com> (http://github.com/mnasyrov)"
+  ],
   "repository": {
     "type": "git",
-    "url":  "https://github.com/mroth/emoji-data-js.git"
+    "url":  "https://github.com/mnasyrov/emoji-data-js.git"
   },
   "main": "./lib/emoji_data.js",
   "scripts": {
