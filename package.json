@@ -1,6 +1,6 @@
 {
-  "name":        "@mnasyrov/emoji-data",
-  "version":     "0.2.0",
+  "name":        "mnasyrov-emoji-data",
+  "version":     "0.2.1",
   "description": "Emoji encoding swiss army knife for NodeJS (forked from mroth/emoji-data-js)",
   "keywords": [
     "emoji",
